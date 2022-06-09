@@ -1,0 +1,2 @@
+[2020-08-09 19:13:00,021][data_utils.log][INFO] ## Namespace(accumulation_steps=8, batch_size=2, bert_path='../pytorch_robert_ext_wwm_large', dropout=0.1, epochs=10, hidden_size=32, is_virus=True, label_dict_path='./data/label_dict.json', learning_rate=1e-05, log_folder='./log', max_seq_len=300, model_name='bert_fold{}.bin', model_save_path='./model/ckpt', num_classes=6, num_fold=5, output_path='./{}_result.txt', patience=3, print_step=200)
+[2020-08-09 19:13:00,080][data_utils.log][INFO] ## **********5/5**********
